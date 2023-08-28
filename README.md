@@ -1,2 +1,2 @@
-- 👋 Oie, sou  @Leticiapetroski;
-- Estou estudando na Alura, desenvolvendo projetos do curso.
+-👋🏻 Oie, sou  @Leticiapetroski;
+- Estou estudando na **Alura**, desenvolvendo projetos do curso.
